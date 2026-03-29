@@ -23,17 +23,17 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "images/JunWang.png"
+  name             : "Jun Wang"
+  pronouns         : "he/him"  
+  bio              : "I am a PhD student in Economics at the University of Wyoming."
+  location         : "US/China"
+  employer         : "University of Wyoming"
+  uri              : "https://JunWangg.github.io"
+  email            : "jwang29@uwyo.edu" 
 
   # Academic websites
-  academia         : "images/JunWang.png"
+  academia         : 
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
